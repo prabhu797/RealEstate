@@ -1,11 +1,3 @@
-  =>  Template Name    : Makaan - Real Estate HTML Template
+# RealEstate
 
-  =>  Template Link    : https://htmlcodex.com/real-estate-html-template-free
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+A simple HTML, CSS and JavaScript project which showcases my skills in web development. I am working on it and constantly trying to build new things.
